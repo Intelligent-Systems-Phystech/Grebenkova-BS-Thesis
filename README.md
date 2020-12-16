@@ -21,7 +21,7 @@
 ```
 gh repo clone Intelligent-Systems-Phystech/Grebenkova-BS-Thesis
 ```
-
+([Ссылка на демо](https://github.com/Intelligent-Systems-Phystech/Grebenkova-BS-Thesis/blob/main/code/mnist_hypernets.ipynb)
 
 ### Requirements
 
